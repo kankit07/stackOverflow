@@ -31,12 +31,12 @@ npm start
 
 ## Pics of the application
 
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Homepage.png">
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Question.png">
+<img src="[https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Homepage.png](https://drive.google.com/file/d/1ExaduNo6j4RLTvVO46SriUMI0xmxh97t/view?usp=drive_link)">
+<img src="[https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Question.png](https://drive.google.com/file/d/18WMVXaMwrChhirjSGDOVfLYjw-ETe3Pf/view?usp=drive_link)">
 
 ## Live Link for the website:
 
-[Click here](https://stack-overflow-manoj.netlify.app/)
+[Click here](https://stackoverflow2.netlify.app/)
 
 ## Contributions
 
